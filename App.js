@@ -1,4 +1,5 @@
 import { Button, Image, ScrollView, Text, TextInput, View } from "react-native";
+import "expo-dev-client";
 
 export default function App() {
   return (
